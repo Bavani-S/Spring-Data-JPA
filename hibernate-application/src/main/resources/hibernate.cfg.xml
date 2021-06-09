@@ -15,7 +15,7 @@
       <!-- Assume test is the database name -->
       
       <property name = "hibernate.connection.url">
-         jdbc:mysql://localhost:3306/ormlearn
+         jdbc:mysql://localhost:3306/ormlearndb
       </property>
       
       <property name = "hibernate.connection.username">
